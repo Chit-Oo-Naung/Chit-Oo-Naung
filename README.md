@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Android , Flutter**
 
-- 📫 How to reach me **chitoonaung.ts@gmail.com , +660931303623**
+- 📫 How to reach me **chitoonaung.ts@gmail.com**
 
 - ⚡ Fun fact **I think I am a stable person.**
 
